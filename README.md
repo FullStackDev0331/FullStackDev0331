@@ -1,8 +1,8 @@
 💧 FrontEnd: React, Next.js, Remix, Vue, Redux, Mobx,  Vuex, TailwindCSS, SCSS, MUI, Styled-component, Bootstrap,  Vuetify, Javascript, ES6+, Typescript
 
-🔸 BackEnd: Node.js, ExpressJS, Nest.js, Python, Django, Flask, AWS, Digital Ocen, Serverless, RESTFul API, PostgreSQL, Artificail Intelligence, Ruby on Rails
+🔸 BackEnd: Node.js, ExpressJS, Nest.js, Python, Django,  RESTFul API, PostgreSQL, Artificail Intelligence, Ruby on Rails
 
-☀️ Mobile App: React Native, Android Java, C#
+☀️ Mobile App: React Native, Android Java, C#, Ionic
 
 🚀 Database: PostgreSQL, MySQL, MongoDB, Redis, ORM(TypeORM, Sequelize, Prisma, SQLAlchemy), Knex
 
