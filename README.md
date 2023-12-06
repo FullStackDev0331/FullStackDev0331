@@ -147,6 +147,6 @@ Thanks a lot in advance!
 </table>
 </p>
 
-<iframe src='https://www.hackerrank.com/certificates/iframe/efe699d7e4b1' />
+
 
 
