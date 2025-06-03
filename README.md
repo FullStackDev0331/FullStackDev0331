@@ -157,6 +157,30 @@ Thanks a lot in advance!
       <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="go" />
       <br>Go	
     </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="vue" />
+      <br>Vue	
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="aws" />
+      <br>AWS	
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=azure" width="45" height="45" alt="azure" />
+      <br>Azure	
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="docker" />
+      <br>Docker	
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=graphql" width="45" height="45" alt="graphql" />
+      <br>Graphql	
+    </td>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=apollo" width="45" height="45" alt="apollo" />
+      <br>Apollo	
+    </td>
   </tr>
 </table>
 </p>
