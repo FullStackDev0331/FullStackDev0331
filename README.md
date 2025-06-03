@@ -146,15 +146,15 @@ Thanks a lot in advance!
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="swift" />
+      <img src="https://skillicons.dev/icons?i=swift" width="45" height="45" alt="swift" />
       <br>Swift
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="rails" />
+      <img src="https://skillicons.dev/icons?i=rails" width="45" height="45" alt="rails" />
       <br>rails	
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="go" />
+      <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="go" />
       <br>Go	
     </td>
   </tr>
